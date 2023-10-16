@@ -1,0 +1,7 @@
+gpt3.5_turbo_0301_responses1.txt
+.DS_Store
+*.json
+#*.csv
+*.env
+tags
+
